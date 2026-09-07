@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: bb3fa15e052772b4fb42d2aa510061cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6872170789521324730
+    second: LID_Tutorial_Drawn_final_0
+  - first:
+      213: -2969393561066683741
+    second: LID_Tutorial_Drawn_final_1
+  - first:
+      213: 31253081884367218
+    second: LID_Tutorial_Drawn_final_2
+  - first:
+      213: 2663404510475726909
+    second: LID_Tutorial_Drawn_final_3
+  - first:
+      213: 145425712045391960
+    second: LID_Tutorial_Drawn_final_4
+  - first:
+      213: 5964837664763731414
+    second: LID_Tutorial_Drawn_final_5
+  - first:
+      213: -859636434485283431
+    second: LID_Tutorial_Drawn_final_6
+  - first:
+      213: 2330354604782140037
+    second: LID_Tutorial_Drawn_final_7
+  - first:
+      213: -1551471725921235552
+    second: LID_Tutorial_Drawn_final_8
+  - first:
+      213: 267756074560272460
+    second: LID_Tutorial_Drawn_final_9
+  - first:
+      213: -549765968415982609
+    second: LID_Tutorial_Drawn_final_10
+  - first:
+      213: 1671242030491794807
+    second: LID_Tutorial_Drawn_final_11
+  - first:
+      213: 4302685987904831184
+    second: LID_Tutorial_Drawn_final_12
+  - first:
+      213: 2778600723378219604
+    second: LID_Tutorial_Drawn_final_13
+  - first:
+      213: 5128734671130454054
+    second: LID_Tutorial_Drawn_final_14
+  - first:
+      213: -9128328477270471528
+    second: LID_Tutorial_Drawn_final_15
+  - first:
+      213: 7250545133039260537
+    second: LID_Tutorial_Drawn_final_16
+  - first:
+      213: 6056295239384963770
+    second: LID_Tutorial_Drawn_final_17
+  - first:
+      213: 867688076803590491
+    second: LID_Tutorial_Drawn_final_18
+  - first:
+      213: -729037771962545053
+    second: LID_Tutorial_Drawn_final_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_0
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 732
+        width: 133
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abafb393ceade5f50800000000000000
+      internalID: 6872170789521324730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_1
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 781
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2c94ae9489ac6d0800000000000000
+      internalID: -2969393561066683741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_2
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 733
+        width: 133
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2799adb23880f6000800000000000000
+      internalID: 31253081884367218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_3
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 770
+        width: 87
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30341c7a4056f420800000000000000
+      internalID: 2663404510475726909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_4
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 766
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8508ca32ae7a40200800000000000000
+      internalID: 145425712045391960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_5
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 767
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dddc17c04c57c250800000000000000
+      internalID: 5964837664763731414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_6
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 770
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9957586a735f114f0800000000000000
+      internalID: -859636434485283431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_7
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 767
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a3cb29a25175020800000000000000
+      internalID: 2330354604782140037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 551
+        width: 367
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad07617fa0187ae0800000000000000
+      internalID: -1551471725921235552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_9
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 577
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c483e9e2bb247b300800000000000000
+      internalID: 267756074560272460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_10
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 583
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb77f6b3c6de58f0800000000000000
+      internalID: -549765968415982609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_11
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 584
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d7a29a5c1713710800000000000000
+      internalID: 1671242030491794807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_12
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 555
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de3e110c1636bb30800000000000000
+      internalID: 4302685987904831184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_13
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 371
+        width: 124
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a2a91e2a29f8620800000000000000
+      internalID: 2778600723378219604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_14
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 388
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628e5fb920dec2740800000000000000
+      internalID: 5128734671130454054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_15
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 394
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c06372d99a15180800000000000000
+      internalID: -9128328477270471528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_16
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 397
+        width: 76
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9731eba226c1f9460800000000000000
+      internalID: 7250545133039260537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_17
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 395
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba1e6ebe684c0450800000000000000
+      internalID: 6056295239384963770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 254
+        width: 128
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5948b965b5aa0c00800000000000000
+      internalID: 867688076803590491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LID_Tutorial_Drawn_final_19
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 281
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c845e4200f1e5f0800000000000000
+      internalID: -729037771962545053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LID_Tutorial_Drawn_final_0: 6872170789521324730
+      LID_Tutorial_Drawn_final_1: -2969393561066683741
+      LID_Tutorial_Drawn_final_10: -549765968415982609
+      LID_Tutorial_Drawn_final_11: 1671242030491794807
+      LID_Tutorial_Drawn_final_12: 4302685987904831184
+      LID_Tutorial_Drawn_final_13: 2778600723378219604
+      LID_Tutorial_Drawn_final_14: 5128734671130454054
+      LID_Tutorial_Drawn_final_15: -9128328477270471528
+      LID_Tutorial_Drawn_final_16: 7250545133039260537
+      LID_Tutorial_Drawn_final_17: 6056295239384963770
+      LID_Tutorial_Drawn_final_18: 867688076803590491
+      LID_Tutorial_Drawn_final_19: -729037771962545053
+      LID_Tutorial_Drawn_final_2: 31253081884367218
+      LID_Tutorial_Drawn_final_3: 2663404510475726909
+      LID_Tutorial_Drawn_final_4: 145425712045391960
+      LID_Tutorial_Drawn_final_5: 5964837664763731414
+      LID_Tutorial_Drawn_final_6: -859636434485283431
+      LID_Tutorial_Drawn_final_7: 2330354604782140037
+      LID_Tutorial_Drawn_final_8: -1551471725921235552
+      LID_Tutorial_Drawn_final_9: 267756074560272460
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

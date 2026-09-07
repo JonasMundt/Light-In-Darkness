@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: d4371eba2c37b9049abbf9663007b0a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7514596605906613489
+    second: DekoTileSetLevel2_final_0
+  - first:
+      213: -8224159198340943566
+    second: DekoTileSetLevel2_final_1
+  - first:
+      213: -7700931776439578012
+    second: DekoTileSetLevel2_final_2
+  - first:
+      213: -6488009797394128457
+    second: DekoTileSetLevel2_final_3
+  - first:
+      213: -1979005401665038404
+    second: DekoTileSetLevel2_final_4
+  - first:
+      213: 2472119483414858067
+    second: DekoTileSetLevel2_final_5
+  - first:
+      213: -3696503162302513112
+    second: DekoTileSetLevel2_final_6
+  - first:
+      213: -1074298072805494345
+    second: DekoTileSetLevel2_final_7
+  - first:
+      213: -3132275714550436749
+    second: DekoTileSetLevel2_final_8
+  - first:
+      213: 3279320480359217758
+    second: DekoTileSetLevel2_final_9
+  - first:
+      213: -6628136513644384646
+    second: DekoTileSetLevel2_final_10
+  - first:
+      213: -5878326367487765186
+    second: DekoTileSetLevel2_final_11
+  - first:
+      213: 7310157847443357563
+    second: DekoTileSetLevel2_final_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DekoTileSetLevel2_final_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 585
+        width: 327
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b8492733ac6b790800000000000000
+      internalID: -7514596605906613489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DekoTileSetLevel2_final_1
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 660
+        width: 233
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23170a658caeddd80800000000000000
+      internalID: -8224159198340943566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DekoTileSetLevel2_final_2
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 752
+        width: 232
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4621dc1c95bc02590800000000000000
+      internalID: -7700931776439578012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DekoTileSetLevel2_final_3
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 622
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1a117d675f5f5a0800000000000000
+      internalID: -6488009797394128457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DekoTileSetLevel2_final_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 584
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb71d2982192984e0800000000000000
+      internalID: -1979005401665038404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DekoTileSetLevel2_final_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 575
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359c343829bbe4220800000000000000
+      internalID: 2472119483414858067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DekoTileSetLevel2_final_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 577
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820c9d375f163bcc0800000000000000
+      internalID: -3696503162302513112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DekoTileSetLevel2_final_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1ba8b38935711f0800000000000000
+      internalID: -1074298072805494345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DekoTileSetLevel2_final_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 580
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c63a745dbe784d0800000000000000
+      internalID: -3132275714550436749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DekoTileSetLevel2_final_9
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 340
+        width: 246
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a79703a9c728d20800000000000000
+      internalID: 3279320480359217758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DekoTileSetLevel2_final_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 69
+        width: 146
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e2e6d45f02404a0800000000000000
+      internalID: -6628136513644384646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DekoTileSetLevel2_final_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 73
+        width: 115
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e355410405dfb6ea0800000000000000
+      internalID: -5878326367487765186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DekoTileSetLevel2_final_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 58
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f35e4d4d5e27560800000000000000
+      internalID: 7310157847443357563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DekoTileSetLevel2_final_0: -7514596605906613489
+      DekoTileSetLevel2_final_1: -8224159198340943566
+      DekoTileSetLevel2_final_10: -6628136513644384646
+      DekoTileSetLevel2_final_11: -5878326367487765186
+      DekoTileSetLevel2_final_12: 7310157847443357563
+      DekoTileSetLevel2_final_2: -7700931776439578012
+      DekoTileSetLevel2_final_3: -6488009797394128457
+      DekoTileSetLevel2_final_4: -1979005401665038404
+      DekoTileSetLevel2_final_5: 2472119483414858067
+      DekoTileSetLevel2_final_6: -3696503162302513112
+      DekoTileSetLevel2_final_7: -1074298072805494345
+      DekoTileSetLevel2_final_8: -3132275714550436749
+      DekoTileSetLevel2_final_9: 3279320480359217758
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
